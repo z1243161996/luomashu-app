@@ -1,0 +1,22 @@
+# Android build outputs
+android-app/app/build/
+android-app/build/
+android-app/.gradle/
+android-app/local.properties
+
+# IDE
+android-app/.idea/
+*.iml
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log

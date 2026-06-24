@@ -1,0 +1,18 @@
+Brain Test (罗码术) is a fully offline Android brain test app with 58 testing tools across 6 categories:
+
+🧠 Neuro Reaction - APM test, CPS click test, reaction speed, choice reaction, timing challenge, gaming talent
+🧩 Cognitive Thinking - Memory, Schulte grid, Stroop test, IQ test, logic reasoning, focus training and 13 more
+🪞 Personality Mirror - MBTI, Big Five, Enneagram, EQ, Holland codes and 12 more
+📚 Knowledge Trivia - Idioms, poetry, science, history, geography, English vocabulary and 12 more
+👁️ Sensory Challenge - Vision, hearing, pitch, rhythm, color sensitivity, spot the difference and 8 more
+🎮 Fun Playground - Minesweeper, number guess, chase button, don't press it, circle challenge and 7 more
+
+Features:
+• Fully offline - no internet permission required
+• Local data storage - your privacy is protected
+• Beautiful Material3 UI design
+• Haptic feedback for enhanced interaction
+• One-tap share your results
+• Track your best scores and progress
+
+Each test takes only 10 seconds to 3 minutes - perfect for quick brain training anytime, anywhere.
